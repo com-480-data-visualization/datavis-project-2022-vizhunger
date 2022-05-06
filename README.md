@@ -19,7 +19,7 @@
 [Milestone 2 - Report](milestones/milestone_2.pdf)
 
 Please check out our website skeleton by running the scripts! 
-Instructions are given in `./website/README.md`.
+Instructions are given in [/website/README.md](/website/README.md).
 
 ## Milestone 3 (4th June, 5pm)
 
