@@ -4,7 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory `website`, you can run:
+
+### `npm install`
+
+Installs all neccessary dependencies (if you haven't started the website previously).
+Please make sure to update your node and npm to the latest versions.
+My current node version is 18.1.0 and npm version is 8.8.0.
 
 ### `npm start`
 

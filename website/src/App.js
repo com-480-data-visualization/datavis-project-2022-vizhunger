@@ -31,7 +31,7 @@ const App = () => (
       licenseKey = {'YOUR_KEY_HERE'}
       scrollingSpeed = {800}
       navigation = {true}
-      showActiveTooltip = {true}
+      // showActiveTooltip = {true}
       slidesNavigation = {true}
       anchors = {['home', 'topGames', 'studioStats', 'gamesAndStudios', 'keywords', 'sizeTimeProfitGraph', 'genreTimeline', 'mapOfGames', '3DFilter']}
       navigationTooltips = {['Home', 'Top Games', 'Studio Stats', 'Games and Studios', 'Keywords', 'Size Time Profit Graph', 'Genre Timeline', 'Map of Games', '3D Filter']}

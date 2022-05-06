@@ -16,7 +16,10 @@
 
 **10% of the final grade**
 
+[Milestone 2 - Report](milestones/milestone_2.pdf)
 
+Please check out our website skeleton by running the scripts! 
+Instructions are given in `./website/README.md`.
 
 ## Milestone 3 (4th June, 5pm)
 
