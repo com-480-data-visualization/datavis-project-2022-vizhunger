@@ -4,9 +4,9 @@ import vis4 from '../../img/vis4.jpeg';
 const Keywords = () => {
     return (
         <div>
-            <h1>Gaming Keywords</h1>
+            <h1>Popular Games</h1>
             <p>
-                The words that are dominating the industry.
+                The games that are dominating the industry.
             </p>
             <img src={vis4} />
         </div>
