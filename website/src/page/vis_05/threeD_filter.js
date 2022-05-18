@@ -12,7 +12,7 @@ import { Html, useGLTF, RoundedBox } from '@react-three/drei'
 const ThreeDFilter = () => {
     return (
         <Canvas colorManagement camera={{position: [1,1,1], fov: 100}}>
-            <Html>
+            <Html fullscreen>
                 <div>
                     <h1>Try exploring the data space yourself!</h1>
                     <p>
