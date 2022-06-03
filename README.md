@@ -28,7 +28,7 @@ Instructions are given in [/website/README.md](/website/README.md).
 
 [Milestone 3 - Report](milestones/milestone_3.pdf)
 
-Please checkout our website [here!](https://codesandbox.io/s/com-480-data-visualisation-forked-7jlhwi)
+Please checkout our website along with its source code on codesandbox [here!](https://codesandbox.io/s/com-480-data-visualisation-forked-7jlhwi)
 
 You can also see the compiled version using github pages [here!](https://com-480-data-visualization.github.io/datavis-project-2022-vizhunger/)
 
