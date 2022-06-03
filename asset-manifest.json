@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/datavis-project-2022-vizhunger/static/css/main.36ae3b45.css",
+    "main.js": "/datavis-project-2022-vizhunger/static/js/main.f948125b.js",
+    "static/js/787.0863c8f8.chunk.js": "/datavis-project-2022-vizhunger/static/js/787.0863c8f8.chunk.js",
+    "static/media/AdobeStock_271500759.jpeg": "/datavis-project-2022-vizhunger/static/media/AdobeStock_271500759.0bf7ce273dd4ae709dbd.jpeg",
+    "static/media/AdobeStock_110404923.jpeg": "/datavis-project-2022-vizhunger/static/media/AdobeStock_110404923.79818f7690f688fce3e4.jpeg",
+    "static/media/mainPageBg.jpg": "/datavis-project-2022-vizhunger/static/media/mainPageBg.9dcdc4cb19db34e6d1f7.jpg",
+    "static/media/AdobeStock_271500407.jpeg": "/datavis-project-2022-vizhunger/static/media/AdobeStock_271500407.4407313aea930cd5a5c5.jpeg",
+    "index.html": "/datavis-project-2022-vizhunger/index.html",
+    "static/media/Montserrat-Italic-VariableFont_wght.ttf": "/datavis-project-2022-vizhunger/static/media/Montserrat-Italic-VariableFont_wght.e0bbd86bb4eda6f4185b.ttf",
+    "static/media/Montserrat-VariableFont_wght.ttf": "/datavis-project-2022-vizhunger/static/media/Montserrat-VariableFont_wght.690dd2104e0b4f5c405b.ttf",
+    "main.36ae3b45.css.map": "/datavis-project-2022-vizhunger/static/css/main.36ae3b45.css.map",
+    "main.f948125b.js.map": "/datavis-project-2022-vizhunger/static/js/main.f948125b.js.map",
+    "787.0863c8f8.chunk.js.map": "/datavis-project-2022-vizhunger/static/js/787.0863c8f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36ae3b45.css",
+    "static/js/main.f948125b.js"
+  ]
+}

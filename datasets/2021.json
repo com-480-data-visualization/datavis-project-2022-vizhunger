@@ -1,0 +1,481 @@
+{
+  "China": [
+    {
+      "text": "Genshin Impact",
+      "value": 23
+    },
+    {
+      "text": "League of Legends",
+      "value": 16
+    },
+    {
+      "text": "Minecraft",
+      "value": 15
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 7
+    },
+    {
+      "text": "Dota 2",
+      "value": 6
+    }
+  ],
+  "India": [
+    {
+      "text": "PUBG",
+      "value": 46
+    },
+    {
+      "text": "League of Legends",
+      "value": 14
+    },
+    {
+      "text": "Minecraft",
+      "value": 8
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 2
+    },
+    {
+      "text": "Dota 2",
+      "value": 2
+    }
+  ],
+
+  "United States of America": [
+    {
+      "text": "Minecraft",
+      "value": 64
+    },
+    {
+      "text": "Fortnite",
+      "value": 38
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 21
+    },
+    {
+      "text": "Genshin Impact",
+      "value": 16
+    },
+    {
+      "text": "Call of Duty: Warzone",
+      "value": 14
+    }
+  ],
+
+  "United Kingdom": [
+    {
+      "text": "Minecraft",
+      "value": 60
+    },
+    {
+      "text": "Fortnite",
+      "value": 44
+    },
+    {
+      "text": "FIFA 21",
+      "value": 28
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 22
+    },
+    {
+      "text": "Call of Duty: Warzone",
+      "value": 19
+    }
+  ],
+
+  "Canada": [
+    {
+      "text": "Minecraft",
+      "value": 64
+    },
+    {
+      "text": "Fortnite",
+      "value": 32
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 22
+    },
+    {
+      "text": "Genshin Impact",
+      "value": 19
+    },
+    {
+      "text": "Call of Duty: Warzone",
+      "value": 17
+    }
+  ],
+
+  "Australia": [
+    {
+      "text": "Minecraft",
+      "value": 66
+    },
+    {
+      "text": "Fortnite",
+      "value": 33
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 21
+    },
+    {
+      "text": "Genshin Impact",
+      "value": 13
+    },
+    {
+      "text": "FIFA 21",
+      "value": 8
+    }
+  ],
+
+  "Japan": [
+    {
+      "text": "Fortnite",
+      "value": 52
+    },
+    {
+      "text": "Minecraft",
+      "value": 51
+    },
+    {
+      "text": "Genshin Impact",
+      "value": 31
+    },
+    {
+      "text": "Apex Legends",
+      "value": 5
+    },
+    {
+      "text": "League of Legends",
+      "value": 4
+    }
+  ],
+
+  "Mexico": [
+    {
+      "text": "Minecraft",
+      "value": 57
+    },
+    {
+      "text": "Fortnite",
+      "value": 48
+    },
+    {
+      "text": "Grand Theft Auto: V",
+      "value": 22
+    },
+    {
+      "text": "FIFA 21",
+      "value": 13
+    },
+    {
+      "text": "Call of Duty: Warzone",
+      "value": 13
+    }
+  ],
+
+  "Russia": [
+    {
+      "text": "World of Tanks",
+      "value": 50
+    },
+    {
+      "text": "Counter-Strike: Global Offensive",
+      "value": 46
+    },
+    {
+      "text": "Dota 2",
+      "value": 33
+    },
+    {
+      "text": "StarCraft II",
+      "value": 12
+    },
+    {
+      "text": "League of Legends",
+      "value": 10
+    }
+  ],
+
+  "Brasil": [
+    {
+      "text": "Minecraft",
+      "value": 33
+    },
+    {
+      "text": "Free Fire",
+      "value": 24
+    },
+    {
+      "text": "Counter-Strike: Global Offensive",
+      "value": 19
+    },
+    {
+      "text": "Overwatch",
+      "value": 12
+    },
+    {
+      "text": "League of Legends",
+      "value": 10
+    }
+  ],
+
+  "Germany": [
+    {
+      "text": "Minecraft",
+      "value": 41
+    },
+    {
+      "text": "Fortnite",
+      "value": 30
+    },
+    {
+      "text": "Counter-Strike: Global Offensive",
+      "value": 26
+    },
+    {
+      "text": "League of Legends",
+      "value": 17
+    },
+    {
+      "text": "FIFA 21",
+      "value": 14
+    }
+  ],
+
+  "France": [
+    {
+      "text": "Fortnite",
+      "value": 39
+    },
+    {
+      "text": "Minecraft",
+      "value": 33
+    },
+    {
+      "text": "FIFA 21",
+      "value": 24
+    },
+    {
+      "text": "Counter-Strike: Global Offensive",
+      "value": 20
+    },
+    {
+      "text": "League of Legends",
+      "value": 14
+    }
+  ],
+
+  "South Korea": [
+    {
+      "text": "League of Legends",
+      "value": 46
+    },
+    {
+      "text": "PUBG",
+      "value": 19
+    },
+    {
+      "text": "Minecraft",
+      "value": 17
+    },
+    {
+      "text": "Overwatch",
+      "value": 14
+    },
+    {
+      "text": "Starcraft II",
+      "value": 10
+    }
+  ],
+
+  "Pakistan": [
+    {
+      "text": "PUBG",
+      "value": 20
+    }
+  ],
+
+  "Kazakhstan": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Saudi Arabia": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Egypt": [
+    {
+      "text": "PUBG",
+      "value": 20
+    }
+  ],
+
+  "Turkey": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Italy": [
+    {
+      "text": "Fortnite",
+      "value": 20
+    }
+  ],
+
+  "Portugal": [
+    {
+      "text": "Fortnite",
+      "value": 20
+    }
+  ],
+
+  "Spain": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Poland": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Finland": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Sweden": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Norway": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Switzerland": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Argentina": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "New Zealand": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Philippines": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Indonesia": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Netherlands": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Belgium": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Greece": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Denmark": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Algeria": [
+    {
+      "text": "PUBG",
+      "value": 20
+    }
+  ],
+
+  "Tunisia": [
+    {
+      "text": "PUBG",
+      "value": 20
+    }
+  ],
+
+  "United Arab Emirates": [
+    {
+      "text": "PUBG",
+      "value": 20
+    }
+  ],
+
+  "South Africa": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ],
+
+  "Morocco": [
+    {
+      "text": "Minecraft",
+      "value": 20
+    }
+  ]
+}
