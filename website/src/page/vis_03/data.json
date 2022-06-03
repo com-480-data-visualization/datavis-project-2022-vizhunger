@@ -1,0 +1,472 @@
+[
+  {
+    "id": "<70",
+    "data": [
+      {
+        "x": 34,
+        "y": 42,
+        "game": "Brawlhalla",
+        "release": 2017,
+        "studio": "Blue Mammoth Games",
+        "revenue": 2.0,
+        "size": 10
+      }
+    ]
+  },
+  {
+    "id": "70-74",
+    "data": [
+      {
+        "x": 5,
+        "y": 49,
+        "game": "Carto",
+        "release": 2020,
+        "studio": "Sunhead Games",
+        "revenue": 1.3,
+        "size": 10
+      },
+      {
+        "x": 2,
+        "y": 43,
+        "game": "Ooblets",
+        "release": 2020,
+        "studio": "Glumberland",
+        "revenue": 3.6,
+        "size": 10
+      },
+      {
+        "x": 3,
+        "y": 6,
+        "game": "Phasmophobia",
+        "release": 2020,
+        "studio": "Kinetic Games",
+        "revenue": 95.0,
+        "size": 24
+      }
+    ]
+  },
+  {
+    "id": "75-79",
+    "data": [
+      {
+        "x": 10,
+        "y": 52,
+        "game": "Before Your Eyes",
+        "release": 2021,
+        "studio": "GoodbyeWorld Games",
+        "revenue": 1.4,
+        "size": 10
+      },
+      {
+        "x": 88,
+        "y": 37,
+        "game": "GFTO",
+        "release": 2020,
+        "studio": "10 Chambers",
+        "revenue": 32.0,
+        "size": 14
+      },
+      {
+        "x": 18,
+        "y": 49,
+        "game": "Indivisible",
+        "release": 2019,
+        "studio": "Lab Zero Games",
+        "revenue": 3.2,
+        "size": 10
+      },
+      {
+        "x": 4,
+        "y": 23,
+        "game": "Untitled Goose Game",
+        "release": 2019,
+        "studio": "House House",
+        "revenue": 3.6,
+        "size": 14
+      },
+      {
+        "x": 58,
+        "y": 34,
+        "game": "Insurgency: Sandstorm",
+        "release": 2018,
+        "studio": "New World Interactive",
+        "revenue": 42.0,
+        "size": 16
+      },
+      {
+        "x": 90,
+        "y": 78,
+        "game": "Kingdom Come: Deliverance",
+        "release": 2018,
+        "studio": "Warhorse Studios",
+        "revenue": 33.2,
+        "size": 14
+      },
+      {
+        "x": 1,
+        "y": 70,
+        "game": "Donut County",
+        "release": 2018,
+        "studio": "Ben Esposito",
+        "revenue": 1.4,
+        "size": 10
+      },
+      {
+        "x": 8,
+        "y": 36,
+        "game": "Deceit",
+        "release": 2017,
+        "studio": "World Makers",
+        "revenue": 15.0,
+        "size": 12
+      },
+      {
+        "x": 70,
+        "y": 45,
+        "game": "Rime",
+        "release": 2017,
+        "studio": "Tequila Works",
+        "revenue": 1.7,
+        "size": 10
+      },
+      {
+        "x": 13,
+        "y": 24,
+        "game": "Figment",
+        "release": 2017,
+        "studio": "Bedtime Digital Games",
+        "revenue": 1.3,
+        "size": 10
+      },
+      {
+        "x": 3,
+        "y": 7,
+        "game": "Sky Rogue",
+        "release": 2017,
+        "studio": "Fractal Phase",
+        "revenue": 1.0,
+        "size": 10
+      },
+      {
+        "x": 35,
+        "y": 47,
+        "game": "The Long Dark",
+        "release": 2017,
+        "studio": "Hinterland Studio",
+        "revenue": 52.0,
+        "size": 17
+      }
+    ]
+  },
+  {
+    "id": "80-84",
+    "data": [
+      {
+        "x": 78,
+        "y": 16,
+        "game": "Ender Lilies: Quietus of the Knights",
+        "release": 2021,
+        "studio": "Adglobe",
+        "revenue": 7.5,
+        "size": 11
+      },
+      {
+        "x": 3,
+        "y": 54,
+        "game": "The Forgotten City",
+        "release": 2021,
+        "studio": "Modern Storyteller",
+        "revenue": 2.3,
+        "size": 10
+      },
+      {
+        "x": 14,
+        "y": 60,
+        "game": "Kena: Bridge of Spirits",
+        "release": 2021,
+        "studio": "Ember Lab",
+        "revenue": 5.7,
+        "size": 11
+      },
+      {
+        "x": 6,
+        "y": 43,
+        "game": "Unpacking",
+        "release": 2021,
+        "studio": "Witch Beam",
+        "revenue": 4.1,
+        "size": 11
+      },
+      {
+        "x": 1,
+        "y": 48,
+        "game": "One Step From Eden",
+        "release": 2020,
+        "studio": "Thomas Moon Kang",
+        "revenue": 1.9,
+        "size": 10
+      },
+      {
+        "x": 14,
+        "y": 24,
+        "game": "The Pathless",
+        "release": 2020,
+        "studio": "Giant Squid",
+        "revenue": 3.5,
+        "size": 10
+      },
+      {
+        "x": 16,
+        "y": 36,
+        "game": "Spiritfarer",
+        "release": 2020,
+        "studio": "Thunder Lotus Games",
+        "revenue": 9.7,
+        "size": 11
+      },
+      {
+        "x": 1,
+        "y": 10,
+        "game": "Umurangi Generation",
+        "release": 2020,
+        "studio": "ORIGAME DIGITAL",
+        "revenue": 1.6,
+        "size": 10
+      },
+      {
+        "x": 3,
+        "y": 48,
+        "game": "Ape Out",
+        "release": 2019,
+        "studio": "Gabe Cuzzillo, Bennett Foddy, Matt Boch",
+        "revenue": 1.6,
+        "size": 10
+      },
+      {
+        "x": 18,
+        "y": 60,
+        "game": "Children of Morta",
+        "release": 2019,
+        "studio": "Dead Mage",
+        "revenue": 4.2,
+        "size": 11
+      },
+      {
+        "x": 10,
+        "y": 26,
+        "game": "Mordhau",
+        "release": 2019,
+        "studio": "Triternion",
+        "revenue": 48.0,
+        "size": 17
+      },
+      {
+        "x": 1,
+        "y": 72,
+        "game": "Katana Zero",
+        "release": 2019,
+        "studio": "Justin Stander",
+        "revenue": 3.1,
+        "size": 11
+      },
+      {
+        "x": 45,
+        "y": 18,
+        "game": "The Banner Saga 3",
+        "release": 2018,
+        "studio": "Stoic Studio",
+        "revenue": 1.8
+      },
+      {
+        "x": 3,
+        "y": 43,
+        "game": "Rakuen",
+        "release": 2017,
+        "studio": "Laura Shigihara",
+        "revenue": 1.8,
+        "size": 10
+      }
+    ]
+  },
+  {
+    "id": "85-89",
+    "data": [
+      {
+        "x": 10,
+        "y": 24,
+        "game": "Valheim",
+        "release": 2021,
+        "studio": "Iron Gate Studio",
+        "revenue": 110.0,
+        "size": 24
+      },
+      {
+        "x": 20,
+        "y": 18,
+        "game": "Loop Hero",
+        "release": 2021,
+        "studio": "Four Quarters20",
+        "revenue": 7.6,
+        "size": 11
+      },
+      {
+        "x": 2,
+        "y": 24,
+        "game": "Death's Door",
+        "release": 2021,
+        "studio": "Acid Nerve",
+        "revenue": 3.6,
+        "size": 11
+      },
+      {
+        "x": 2,
+        "y": 34,
+        "game": "Inscryption",
+        "release": 2021,
+        "studio": "Daniel Mullins Games",
+        "revenue": 25.0,
+        "size": 13
+      },
+      {
+        "x": 1,
+        "y": 15,
+        "game": "Baba Is You",
+        "release": 2019,
+        "studio": "Arvi Teikari",
+        "revenue": 3.9,
+        "size": 11
+      },
+      {
+        "x": 33,
+        "y": 2,
+        "game": "Cadence of Hyrule",
+        "release": 2019,
+        "studio": "Brace Yourself Games",
+        "revenue": 5.8,
+        "size": 10
+      },
+      {
+        "x": 8,
+        "y": 36,
+        "game": "Slay the Spire",
+        "release": 2019,
+        "studio": "Mega Crit Games",
+        "revenue": 45.0,
+        "size": 16
+      },
+      {
+        "x": 68,
+        "y": 16,
+        "game": "Pillars Of Eternity II: Deadfire",
+        "release": 2018,
+        "studio": "Obsidian Entertainment",
+        "revenue": 7.9,
+        "size": 11
+      },
+      {
+        "x": 12,
+        "y": 24,
+        "game": "Sunless Skies",
+        "release": 2018,
+        "studio": "Failbetter Games",
+        "revenue": 1.0,
+        "size": 11
+      },
+      {
+        "x": 26,
+        "y": 48,
+        "game": "Subnautica",
+        "release": 2018,
+        "studio": "Unknown Worlds Entertainment",
+        "revenue": 100.0,
+        "size": 24
+      },
+      {
+        "x": 6,
+        "y": 16,
+        "game": "Celeste",
+        "release": 2018,
+        "studio": "Extremely OK Games",
+        "revenue": 19.0,
+        "size": 12
+      },
+      {
+        "x": 9,
+        "y": 50,
+        "game": "Dead Cells",
+        "release": 2018,
+        "studio": "Motion Twin",
+        "revenue": 44.0,
+        "size": 16
+      },
+      {
+        "x": 15,
+        "y": 83,
+        "game": "Cuphead",
+        "release": 2017,
+        "studio": "Studio MDHR",
+        "revenue": 34.0,
+        "size": 15
+      },
+      {
+        "x": 35,
+        "y": 8,
+        "game": "Oxygen Not Included",
+        "release": 2017,
+        "studio": "Klei Entertainment",
+        "revenue": 37.0,
+        "size": 15
+      }
+    ]
+  },
+  {
+    "id": ">90",
+    "data": [
+      {
+        "x": 1,
+        "y": 22,
+        "game": "Chicory: A Colorful Tale",
+        "release": 2021,
+        "studio": "Greg Lobanov1",
+        "revenue": 5.4,
+        "size": 10
+      },
+      {
+        "x": 1,
+        "y": 35,
+        "game": "Spelunky 2",
+        "release": 2020,
+        "studio": "Derek Yu",
+        "revenue": 3.7,
+        "size": 10
+      },
+      {
+        "x": 60,
+        "y": 34,
+        "game": "Disco Elysium",
+        "release": 2019,
+        "studio": "ZA/UM",
+        "revenue": 40.0,
+        "size": 16
+      },
+      {
+        "x": 2,
+        "y": 33,
+        "game": "Into The Breach",
+        "release": 2018,
+        "studio": "Subset Games",
+        "revenue": 7.5,
+        "size": 11
+      },
+      {
+        "x": 1,
+        "y": 63,
+        "game": "Cogmind",
+        "release": 2017,
+        "studio": "Grid Sage Games",
+        "revenue": 3.5,
+        "size": 11
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  { "name": "Electronic Arts", "salary": 132000, "location": "United States" },
+  { "name": "2K Sports", "salary": 123000, "location": "United States" },
+  { "name": "Ubisoft", "salary": 103000, "location": "France" },
+  { "name": "Konami", "salary": 108000, "location": "Japan" },
+  { "name": "EA Sports", "salary": 108000, "location": "United States" },
+  { "name": "Sega", "salary": 101000, "location": "Japan" },
+  { "name": "Square Enix", "salary": 70200, "location": "Japan" },
+  {
+    "name": "Blizzard Entertainment",
+    "salary": 85700,
+    "location": "United States"
+  },
+  {
+    "name": "Microsoft Studios",
+    "salary": 132300,
+    "location": "United States"
+  },
+  { "name": "Milestone srl", "salary": 30300, "location": "Italy" }
+]
