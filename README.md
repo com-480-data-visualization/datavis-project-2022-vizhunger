@@ -35,6 +35,8 @@ You can also see the compiled version using [github pages](https://com-480-data-
 You can also check it out by running the scripts! 
 Instructions are given in [/website/README.md](/website/README.md).
 
+Check our demo video [here](https://drive.google.com/file/d/1lI03bqIK9QzoZxS4C6TL8Rhoc99t7uCp/view?usp=sharing)
+
 ## Late policy
 
 - < 24h: 80% of the grade for the milestone
