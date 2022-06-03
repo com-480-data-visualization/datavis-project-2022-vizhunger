@@ -1,6 +1,7 @@
 {
   "name": "com-480-data-visualisation",
   "version": "0.1.0",
+  "homepage": "https://com-480-data-visualization.github.io/datavis-project-2022-vizhunger",
   "private": true,
   "dependencies": {
     "@emotion/react": "11.9.0",
@@ -52,6 +53,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -76,5 +79,8 @@
     ]
   },
   "keywords": [],
-  "description": "This is team VizHunger"
+  "description": "This is team VizHunger",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
